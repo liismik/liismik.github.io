@@ -1,0 +1,60 @@
+#header {
+    display: flex;
+}
+
+#logo {
+    margin: 15px 0px 0px 0px;
+    max-width: 75%;
+}
+
+#logo_cell {
+    margin: 0px;
+    width: 24%;
+    min-width: 150px;
+    text-align: center;
+    display: inline-block;
+}
+
+#space {
+    margin: 0px;
+    width: 64%;
+    height: 150px;
+    display: inline-block;
+}
+
+#linkedin {
+    margin: 60% 10% 0% 10%;
+    max-width: 75%;
+    min-width: 40px;
+}
+
+#linkedin_cell {
+    margin: 0px;
+    width: 4%;
+    min-width: 50px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+}
+
+#instagram {
+    margin: 60% 10% 0% 10%;
+    max-width: 75%;
+    min-width: 40px;
+}
+
+#instagram_cell {
+    margin: 0px;
+    width: 4%;
+    min-width: 50px;
+    height: 150px;
+    text-align: center;
+    display: inline-block;
+}
+
+#space_right {
+    margin: 0px;
+    width: 4%;
+    height: 150px;
+    display: inline-block;
+}
